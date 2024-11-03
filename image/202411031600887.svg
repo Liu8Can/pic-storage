@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 95 20" style="enable-background:new 0 0 95 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000019660361338411930260000001328642684775732135_);}
+	.st1{fill:#555555;}
+	.st2{fill:#3693F3;}
+	.st3{fill:url(#SVGID_00000039122411378991821580000016566212428157217165_);}
+	.st4{enable-background:new    ;}
+	.st5{fill:none;}
+	.st6{fill:#010101;}
+	.st7{font-family:'Verdana';}
+	.st8{font-size:11px;}
+	.st9{fill:#FFFFFF;}
+	.st10{display:none;enable-background:new    ;}
+	.st11{display:inline;fill:none;}
+	.st12{display:inline;fill:#010101;}
+	.st13{font-family:'AdobeSongStd-Light-GBpc-EUC-H';}
+	.st14{font-family:'AlibabaPuHuiTi_2_85_Bold-GBpc-EUC-H';}
+	.st15{font-size:7px;}
+	.st16{fill:#F48120;}
+	.st17{fill:#FAAD3F;}
+</style>
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M3,0h89c1.7,0,3,1.3,3,3v14c0,1.7-1.3,3-3,3H3c-1.7,0-3-1.3-3-3V3C0,1.3,1.3,0,3,0z"/>
+		</defs>
+		<clipPath id="SVGID_00000151504205673702571900000011300051905228924572_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_00000151504205673702571900000011300051905228924572_);">
+			<rect y="0" class="st1" width="52" height="20"/>
+			<rect x="52" y="0" class="st2" width="43" height="20"/>
+			
+				<linearGradient id="SVGID_00000037681401914284548260000013816739941496368056_" gradientUnits="userSpaceOnUse" x1="-494.2368" y1="41.1" x2="-494.2368" y2="42.1" gradientTransform="matrix(95 0 0 20 47000 -822.0002)">
+				<stop  offset="0" style="stop-color:#BBBBBB;stop-opacity:0.1"/>
+				<stop  offset="1" style="stop-color:#000000;stop-opacity:0.1"/>
+			</linearGradient>
+			<rect y="0" style="fill:url(#SVGID_00000037681401914284548260000013816739941496368056_);" width="95" height="20"/>
+		</g>
+	</g>
+</g>
+<g text-rendering="geometricPrecision">
+	<g class="st4">
+		<rect x="23.3" y="5.5" class="st5" width="25" height="12.8"/>
+		<text transform="matrix(1 0 0 1 23.3076 15.0004)" class="st6 st7 st8">CD</text>
+		<text transform="matrix(1 0 0 1 40.1076 15.0004)" class="st6 st7 st8">N</text>
+	</g>
+	<rect x="23.3" y="4.5" class="st5" width="25" height="12.8"/>
+	<text transform="matrix(1 0 0 1 23.3076 14.0004)" class="st9 st7 st8">CD</text>
+	<text transform="matrix(1 0 0 1 40.1076 14.0004)" class="st9 st7 st8">N</text>
+	<g class="st10">
+		<rect x="56" y="5.3" class="st11" width="33" height="12.5"/>
+		<text transform="matrix(1 0 0 1 56 15.0004)" class="st12 st13 st8">多吉云</text>
+	</g>
+	<rect x="54.6" y="6.9" class="st5" width="39" height="13.3"/>
+	<text transform="matrix(1 0 0 1 56.3686 12.9193)" class="st9 st14 st15">Cloudflare</text>
+	<path class="st16" d="M14.3,13.5c0.1-0.4,0.1-0.7-0.1-1c-0.2-0.2-0.4-0.4-0.8-0.4H7H6.9V12c0-0.1,0.1-0.1,0.1-0.1l6.5-0.1
+		c0.8,0,1.6-0.7,1.9-1.4l0.4-1V9.3C15.3,7.4,13.6,6,11.6,6c-1.9,0-3.4,1.2-4,2.9C7.3,8.6,6.8,8.4,6.3,8.4c-0.9,0.1-1.6,0.8-1.7,1.7
+		c0,0.2,0,0.4,0,0.7C3.2,10.9,2,12,2,13.5c0,0.1,0,0.3,0,0.4C2,14,2.1,14,2.2,14H14c0.1,0,0.1,0,0.1-0.1L14.3,13.5L14.3,13.5z"/>
+	<path class="st17" d="M16.3,9.4h-0.2c0,0-0.1,0-0.1,0.1l-0.3,0.9c-0.1,0.4-0.1,0.7,0.1,1c0.2,0.2,0.4,0.4,0.8,0.4l1.4,0.1h0.1V12
+		c0,0.1-0.1,0.1-0.1,0.1l-1.4,0.1c-0.8,0-1.6,0.7-1.9,1.4l-0.1,0.3c0,0,0,0.1,0.1,0.1h4.9c0.1,0,0.1,0,0.1-0.1
+		c0.1-0.3,0.1-0.6,0.1-1C19.9,11,18.3,9.4,16.3,9.4"/>
+</g>
+</svg>
