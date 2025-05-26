@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1000 400">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3 {
+        fill: #6a3bc8;
+      }
+
+      .st4 {
+        fill: #fff0d9;
+      }
+
+      .st4, .st5 {
+        stroke: #f90;
+      }
+
+      .st4, .st6, .st7, .st8, .st9, .st10 {
+        stroke-width: 2px;
+      }
+
+      .st11 {
+        font-size: 28px;
+      }
+
+      .st11, .st12, .st13, .st14, .st6, .st1, .st15, .st2, .st3 {
+        isolation: isolate;
+      }
+
+      .st11, .st12, .st15 {
+        fill: #333;
+      }
+
+      .st11, .st1, .st15 {
+        font-family: MicrosoftYaHei-Bold, 'Microsoft YaHei';
+        font-weight: 700;
+      }
+
+      .st12, .st13, .st14, .st2, .st3 {
+        font-family: MicrosoftYaHei, 'Microsoft YaHei';
+      }
+
+      .st12, .st1 {
+        font-size: 14px;
+      }
+
+      .st13 {
+        fill: #555;
+      }
+
+      .st13, .st3 {
+        font-size: 12px;
+      }
+
+      .st5, .st16 {
+        stroke-width: 3px;
+      }
+
+      .st5, .st16, .st10 {
+        fill: none;
+      }
+
+      .st14 {
+        font-size: 13px;
+      }
+
+      .st14, .st17 {
+        fill: #3771c8;
+      }
+
+      .st6 {
+        fill: #b3e0ff;
+        opacity: .7;
+      }
+
+      .st6, .st16, .st8 {
+        stroke: #3771c8;
+      }
+
+      .st15 {
+        font-size: 16px;
+      }
+
+      .st18 {
+        fill: #f9f9f9;
+      }
+
+      .st7 {
+        fill: #e6ffe6;
+        stroke: #2a8f4d;
+      }
+
+      .st2 {
+        font-size: 10px;
+      }
+
+      .st19 {
+        fill: #f90;
+      }
+
+      .st20 {
+        fill: #f0f0f0;
+        stroke: #999;
+      }
+
+      .st8 {
+        fill: #e6f2ff;
+      }
+
+      .st9 {
+        fill: #f0e6ff;
+      }
+
+      .st9, .st10 {
+        stroke: #6a3bc8;
+      }
+
+      .st10 {
+        stroke-dasharray: 5 3;
+      }
+    </style>
+  </defs>
+  <rect class="st18" width="1000" height="400"/>
+  <text class="st11" transform="translate(370.9 48)"><tspan x="0" y="0">VPN工作原理示意图</tspan></text>
+  <rect class="st8" x="60" y="120" width="120" height="70" rx="12" ry="12"/>
+  <text class="st15" transform="translate(88 155)"><tspan x="0" y="0">用户电脑</tspan></text>
+  <text class="st13" transform="translate(98 175)"><tspan x="0" y="0">(客户端)</tspan></text>
+  <rect class="st7" x="420" y="120" width="120" height="70" rx="12" ry="12"/>
+  <text class="st15" transform="translate(438.2 155)"><tspan x="0" y="0">VPN服务器</tspan></text>
+  <text class="st13" transform="translate(452 175)"><tspan x="0" y="0">(出口节点)</tspan></text>
+  <rect class="st4" x="800" y="120" width="140" height="70" rx="12" ry="12"/>
+  <text class="st15" transform="translate(810.2 155)"><tspan x="0" y="0">互联网/目标网站</tspan></text>
+  <rect class="st9" x="260" y="40" width="100" height="50" rx="8" ry="8"/>
+  <text class="st1" transform="translate(298.8 70)"><tspan x="0" y="0">ISP</tspan></text>
+  <text class="st2" transform="translate(290 83.7)"><tspan x="0" y="0">(运营商)</tspan></text>
+  <path class="st6" d="M187,148h226c3.9,0,7,3.1,7,7h0c0,3.9-3.1,7-7,7h-226c-3.9,0-7-3.1-7-7h0c0-3.9,3.1-7,7-7Z"/>
+  <text class="st14" transform="translate(274 143)"><tspan x="0" y="0">加密隧道</tspan></text>
+  <polygon class="st17" points="410 155 400 150 400 160 410 155"/>
+  <line class="st16" x1="180" y1="155" x2="400" y2="155"/>
+  <polygon class="st19" points="790 155 780 150 780 160 790 155"/>
+  <line class="st5" x1="540" y1="155" x2="780" y2="155"/>
+  <line class="st10" x1="120" y1="120" x2="310" y2="90"/>
+  <polygon class="st0" points="310 90 305 100 315 100 310 90"/>
+  <text class="st3" transform="translate(170.3 70.2)"><tspan x="0" y="0">ISP只能看到</tspan></text>
+  <text class="st3" transform="translate(145.9 89.9)"><tspan x="0" y="0">用户连接VPN服务器</tspan></text>
+  <rect class="st20" x="60" y="260" width="880" height="60" rx="8" ry="8"/>
+  <text class="st12" transform="translate(180.2 290)"><tspan x="0" y="0">VPN通过加密隧道保护用户数据，ISP无法看到用户访问的具体网站，只能看到用户与VPN服务器的连接</tspan></text>
+</svg>
